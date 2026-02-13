@@ -440,7 +440,7 @@
         "text-halo-color": "rgba(0,0,0,0.7)",
         "text-halo-width": 1
       }
-    },
+    }
   ],
   "id": "flux-dark"
 }
